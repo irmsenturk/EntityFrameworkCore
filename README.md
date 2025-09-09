@@ -13,7 +13,7 @@
 * Kalıtım (TPH/TPT)
 * Owned & Keyless Entity Types
 * İndeksler & Check Constraints
-* Sorgulama, Join ve Ham SQL
+* Sorgulama, Join ve Raw SQL
 * Sayfalama (Pagination)
 * Global Query Filters (Soft Delete, Multi‑Tenancy)
 * Stored Procedure & Function
