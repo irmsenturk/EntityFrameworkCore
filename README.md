@@ -27,8 +27,8 @@
 ## 🚀 Neden EF Core?
 
 * **ORM**: Nesneleri tablo satırlarına güvenli şekilde map’ler.
-* **LINQ**: Tür güvenli sorgular; EF, bunları SQL’e dönüştürür.
-* **Taşınabilirlik**: Birçok ilişkisel VT desteği.
+* **LINQ**: Tür güvenli (type-based) sorgular; EF, bunları SQL’e dönüştürür.
+* **Taşınabilirlik**: Birçok ilişkisel DB desteği.
 * **Üretkenlik**: Migration, ilişkiler, yükleme stratejileri, filtreler vb.
 
 ---
